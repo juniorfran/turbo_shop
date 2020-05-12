@@ -1,0 +1,74 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "titulo": "Camisa Azul",
+        "descripcion": "Sexo: maculino\r\nTallas: S,XL",
+        "precio": "25.14",
+        "slug": "camisa-azul",
+        "image": "products/camisa-manga-larga-hombre-azul-francia-D_NQ_NP_781715-MLA25921263550_082017-F.jpg",
+        "created_at": "2020-05-06T06:05:03.919Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "titulo": "Zapatos Rojo",
+        "descripcion": "Zapatos rojos de tacon elegantes y altos",
+        "precio": "45.25",
+        "slug": "zapatos-rojo",
+        "image": "products/3384168fd071f59432b4a7fd99e19503.jpg",
+        "created_at": "2020-05-06T06:27:30.342Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "titulo": "Vestido infantil",
+        "descripcion": "Vestido elegante para infante femenino",
+        "precio": "158.35",
+        "slug": "vestido-infantil",
+        "image": "products/15680162993450395920_thumbnail_600x799.webp",
+        "created_at": "2020-05-06T06:28:15.707Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "titulo": "Vestido Morado",
+        "descripcion": "Vestido elegante color morado para lucir en semana santa",
+        "precio": "85.45",
+        "slug": "vestido-morado",
+        "image": "products/61tUTlPHb5L._AC_UX385_.jpg",
+        "created_at": "2020-05-06T06:28:57.776Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "titulo": "Laptop ThinkPad X1 Carbon Gen 8 (14 \")",
+        "descripcion": "Una de nuestras primeras computadoras \r\nport\u00e1tiles con certificaci\u00f3n de movilidad Intel\u00ae de 14 \"\r\nDelgado y ligero Incre\u00edbles opciones de visualizaci\u00f3n\r\nHasta 18 horas de duraci\u00f3n de la bater\u00eda,",
+        "precio": "2279.18",
+        "slug": "laptop-thinkpad-x1-carbon-gen-8-14",
+        "image": "products/lenovo-hero.webp",
+        "created_at": "2020-05-06T19:21:15.859Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "titulo": "Laptop Yoga 5G",
+        "descripcion": "Presentaci\u00f3n del primer PC del mundo con conectividad 5G*. Este elegante 2 en 1 marca el comienzo de la inform\u00e1tica m\u00f3vil en una nueva era de libertad.\r\n\r\n*Se requiere servicio de red 5G. Consultar operador de red para disponibilidad.",
+        "precio": "2598.25",
+        "slug": "laptop-yoga-5g",
+        "image": "products/lenovo-ade-1-yoga-5g_DaAj4K8.webp",
+        "created_at": "2020-05-06T23:01:59.054Z"
+    }
+}
+]

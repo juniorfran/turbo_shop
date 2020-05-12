@@ -1,0 +1,12 @@
+.container-margen {
+    margin: 100px 100px 0px;
+    padding: 20px 300px 10px;
+    align-items: center;
+    align-content: center;
+    text-align: inherit;
+    background-color: beige;
+}
+
+.text-home {
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+<!--Pproductos-->
+
+<div class="">
+    
+
+    <div class="card h-100 text-center">
+        <div class="card-body">
+
+            {% if product.image %}
+                <img src="{{product.image.url}}" alt="Imagen del producto" height="150">
+            {% endif %}
+
+            <div class="card-body">
+                <h5 class="card-title">{{ product.titulo }}</h5>
+                <p class="card-text">{{ product.descripcion }}</p>
+                <div class="">
+                    {% include 'carts/snippets/add.html' %}
+                </div>
+                <a href="{% url 'products:product' product.slug %}" class="btn btn-primary"> ver mas</a>
+            </div>
+            
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,38 @@
+[
+{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$cEF7EFm0wY9K$xL6an8zs7kialSU16/9rvMseEvlLKs1NSAPg+NiK+3M=",
+        "last_login": "2020-05-08T04:09:39Z",
+        "is_superuser": true,
+        "username": "francisco",
+        "first_name": "Francisco Antonio",
+        "last_name": "Flores Villalta",
+        "email": "juniorfran@hotmail.es",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-05-08T04:05:24Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$FGuBAy5vd1sw$fq5dRcKmsndJqSyfj1wFJAvlNau8/t0JssYO+/1/ylI=",
+        "last_login": "2020-05-08T04:06:52.514Z",
+        "is_superuser": false,
+        "username": "flor",
+        "first_name": "",
+        "last_name": "",
+        "email": "fornathaly@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-08T04:06:52.038Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
